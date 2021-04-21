@@ -3,9 +3,9 @@
 
 I am a 26 year old front-end developer from Herzliya. I studied medical engineering but during my studies I discovered the world of software and decided to make a change. I studied C in college and Python, HTML, CSS, JavaScript and React on Udemy.
 
-- 🔭 I’m currently working on **full stack fitness tracker**
+- 🔭 I’m currently working on **Full stack fitness tracker** with React, Material-ui, express.
 
-- 🌱 I’m currently learning **React, Typescript and NextJS**
+- 🌱 I’m currently learning **React, express, Typescript and NextJS**
 
 - 📫 You can reach me at **kadtamir@gmail.com**
 
