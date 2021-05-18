@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tamir</h1>
-<h3 align="center">A frontend developer with BSc in Medical Engineering</h3>
+<h3 align="center">A junior fullstack developer with BSc in Medical Engineering</h3>
 
 I am a 26 year old front-end developer from Herzliya. I studied medical engineering but during my studies I discovered the world of software and decided to make a change. I studied C in college and Python, HTML, CSS, JavaScript and React on Udemy.
 
